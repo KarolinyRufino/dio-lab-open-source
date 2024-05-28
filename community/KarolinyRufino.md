@@ -30,9 +30,6 @@
             </ul>
         </p>
     </div>
-    <div style="float: right">
-        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDdnZDFueTZtbW1xMXh1Y2NldGxjeWFlbGlzZ3c5cDFiNjhkN2NkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" alt="git do bicho preguiça de Zootopia" width="250px" >
-    </div>
 </div>
 <div style="text-align: center">
     <h3 >Conecte-se Comigo!</h3>
